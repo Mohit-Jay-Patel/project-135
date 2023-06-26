@@ -1,0 +1,39 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 90%;
+    height: 10%;
+    font-size: 20px;
+    margin-top: 0;
+    border-radius: 30px;
+}
+span{
+    color: black;
+    font-size: 13px;
+}
+#name_of_object{
+width: 20%;
+}
+#start{
+    font-size: 17px;
+    width: 7%;
+}
+h3{
+    font-size: 17px;
+}
+.footer{
+    position:fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: rgb(0, 25, 134);
+    color: rgb(83, 123, 233);
+    width: 100%;
+   line-height:2.5;
+   font-size: 20px;
+}
+canvas{
+    border: 2px solid rgb(248, 99, 99);
+    box-shadow: 5px 5px 5px rgb(248,99,99);
+    border-radius: 15px;
+}
